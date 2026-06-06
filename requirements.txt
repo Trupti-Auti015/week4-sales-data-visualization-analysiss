@@ -1,0 +1,8 @@
+
+#Required libraries for Sales Data Visualization Project
+
+-pandas
+-matplotlib
+ 
+ #requirements.txt helps others install all required libraries using:
+ pip install -r requirements.txt
